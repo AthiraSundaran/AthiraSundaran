@@ -31,7 +31,7 @@ Sure, here's a README tailored for your GitHub profile based on the style you re
 ## Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-anasmal63404222-blue)](https://twitter.com/anasmal63404222) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-_anazmalik-blue)](https://linkedin.com/in/_anazmalik)
+[![LinkedIn](https://www.linkedin.com/in/athirasundaran-tk/)](https://www.linkedin.com/in/athirasundaran-tk/)
 
 ---
 
