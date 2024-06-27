@@ -30,8 +30,7 @@ Sure, here's a README tailored for your GitHub profile based on the style you re
 
 ## Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-anasmal63404222-blue)](https://twitter.com/anasmal63404222) 
-[![LinkedIn](https://www.linkedin.com/in/athirasundaran-tk/)](https://www.linkedin.com/in/athirasundaran-tk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athirasundaran-tk/)
 
 ---
 
