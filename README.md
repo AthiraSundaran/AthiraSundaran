@@ -58,13 +58,7 @@
 
 
 ---
-
-## Popular Repositories
-
-[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=AthiraSundaran&repo=repo1)](https://github.com/AthiraSundaran/repo1)
-[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=AthiraSundaran&repo=repo2)](https://github.com/AthiraSundaran/repo2)
-
----
+  
 
 
 
