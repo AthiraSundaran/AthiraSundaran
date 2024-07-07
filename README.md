@@ -1,5 +1,3 @@
-Sure, here's a README tailored for your GitHub profile based on the style you referred to:
-
 ---
 
 # Hi 👋, I'm Athira Sundaran
@@ -10,7 +8,7 @@ Sure, here's a README tailored for your GitHub profile based on the style you re
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AthiraSundaran&theme=dark)
 
-![LeetCode Stats](https://leetcode-badge.chyroc.cn/?username=AthiraSundaran)
+[![LeetCode Badge](https://leetcode-badge.chyroc.cn/?username=AthiraSundaran)](https://leetcode.com/AthiraSundaran/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthiraSundaran&layout=compact)
 
