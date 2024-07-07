@@ -51,6 +51,10 @@
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?style=flat&logo=arduino&logoColor=white)
 ![Electronics](https://img.shields.io/badge/Electronics-%23FFDD00.svg?style=flat&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 
 ---
