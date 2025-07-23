@@ -6,7 +6,6 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AthiraSundaran&theme=dark)
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-AthiraSundaran-brightgreen)](https://leetcode.com/AthiraSundaran/)
 
