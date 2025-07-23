@@ -7,7 +7,7 @@
 ---
 
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-AthiraSundaran-brightgreen)](https://leetcode.com/AthiraSundaran/)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthiraSundaran&layout=compact)
 
